@@ -7,9 +7,9 @@ Currently I am using the programming language Python and will be using various l
 
 # Dataset Information
 
-Dataset Name: Forbes 2000 Global Companies
-Contributed By: Rakkesh Aravind G
-URL: https://www.kaggle.com/datasets/rakkesharv/forbes-2000-global-companies
+- Dataset Name: Forbes 2000 Global Companies
+- Contributed By: Rakkesh Aravind G
+- URL: https://www.kaggle.com/datasets/rakkesharv/forbes-2000-global-companies
 
 # Project Goals
 
