@@ -1,18 +1,21 @@
 # Forbes 2000 Analysis
+---
 ## Project Description
 
 As a part of my **Machine Learning Fundamentals Skill Path** from Codecademy, I have created this project to put together and improve on the skills I have learned by analyzing data from the "Forbes 2000 Global Companies" dataset I have collected from Kaggle(.com).
 
 Currently I am using the programming language Python and will be using various libraries to further expand on my analysis (E.g. Pandas, matlibplot, and NumPy)
 
-## Dataset Information
+---
+
+## Dataset Information ✏️
 
 - **Dataset Name**: Forbes 2000 Global Companies
 - **Contributed By**: Rakkesh Aravind G (From Forbes Data)
 - **Time Collected**: April 2022 (End of Financial Year)
 - **Source Link**: https://www.kaggle.com/datasets/rakkesharv/forbes-2000-global-companies
 
-### Column Names & Meanings:
+#### Column Names & Meanings:
 
 - **2022 Ranking**: Organizations Current Ranking as the time of April 2022.
 - **Organization Name**: The Offical Name Designated by the Organization.
@@ -26,18 +29,22 @@ Currently I am using the programming language Python and will be using various l
 - **Market Value (Billions)**: Market Value as of April 2022.
 - **Total Employees**: Working Employee Count as of April 2022.
 
-## Project Goals
+---
+
+## Project Goals 🥅
 
 My main aim in this project is to put together all of the skills I have learnt from the Machine Learning Fundamentals Skill path and hopefully build upon/improve those skills. This project will allow me to help solidify my knowledge in areas such as "Exploratory Data Analysis".
 
 
-### Questions I plan to answer:
+#### Questions I plan to answer:
 
 - A
 - A
 - A
 
-## Used Languages and Libraries
+---
+
+## Used Languages and Libraries 📚
 
 This Analyse Project was developed with the use of the following tools:
 
@@ -46,12 +53,24 @@ This Analyse Project was developed with the use of the following tools:
 - **Matplotlib & Seaborn**: Data Visualizations
 - **NumPy**: High-Level Mathematics
 
-## Concluding Results and Insights
+---
 
-## Acknowledgements 
+## Concluding Results and Insights 🔎
+
+- 
+
+---
+
+## Acknowledgements 🙏
 
 I would like to Acknowledge the following:
 
 - codecademy.com for providing me with the information and skills to be able to create this project.
 - kaggle.com for allowing me to utilize their open-source datasets
 - Rakkesh Aravind G for providing this data free of charge.
+
+---
+
+## Licence 
+
+This project is created under the Apache 2.0 License.
