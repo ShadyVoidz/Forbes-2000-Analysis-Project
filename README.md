@@ -59,7 +59,7 @@ This Analyse Project was developed with the use of the following tools:
 
 ## Concluding Results and Insights 🔎
 
-(It should be keep in mind that these findings are not absolute as there may of been other underlying factors that impacted these results, however, with the provided information these are the conclusions that I came to.)
+*(It should be keep in mind that these findings are not absolute as there may of been other underlying factors that impacted these results, however, with the provided information these are the conclusions that I came to.)*
 
   1. In the April 2021 - April 2022 financial year **banking** had the most amount of overall profits. Coming in with ~**$799,890,000,000** in profits.
   2. There is a pearson correlation of 0.3 indicating a **linear association**. This means that there are also other contributing factors affecting profits an organization makes.
