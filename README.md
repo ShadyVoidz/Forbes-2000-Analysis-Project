@@ -38,9 +38,13 @@ My main aim in this project is to put together all of the skills I have learnt f
 
 #### Questions I plan to answer:
 
-- A
-- A
-- A
+- What industries produced the most overall profits?
+- How do Australian originated organizations compare to other countries organizations in the same industry?
+- Is there a correlation between a companies profits and their employee count?
+- What organization made the most amount of profits?
+- What Organization made most amount of profits for each industry?
+- Is there a correlation between an organizations origin country and profits?
+- Is there a correlation between an organizations age and its profits?
 
 ---
 
