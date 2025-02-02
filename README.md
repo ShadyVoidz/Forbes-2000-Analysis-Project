@@ -4,7 +4,7 @@
 
 As a part of my **Machine Learning Fundamentals Skill Path** from Codecademy, I have created this project to put together and improve on the skills I have learned through analyzing data from the "Forbes 2000 Global Companies" dataset I have collected from Kaggle.
 
-Currently I am using the programming language Python and will be using various libraries to further expand on my analysis (E.g. Pandas, matlibplot, and NumPy)
+Currently I am using the programming language Python and will be using various libraries to further expand on my analysis (E.g. Pandas, matplotlib.py, and NumPy)
 
 ---
 
