@@ -39,12 +39,10 @@ My main aim in this project is to put together all of the skills I have learnt f
 #### Questions I plan to answer:
 
   1. What industries produced the most overall profits?
-  2. Is there a correlation between a companies profits and their employee count?
+  2. Is there a correlation between a organizations profits and their employee count?
   3. What organization made the most amount of profits?
-  4. What Organization made most amount of profits for each industry?
-  5. Is there a correlation between an organizations origin country and profits?
-  6. Is there a correlation between an organizations age and its profits?
-  7. How do Australian originated organizations compare to other countries organizations in the same industry?
+  4. Is there a correlation between an organizations origin country and profits?
+  5. Is there a correlation between an organizations age and its profits?
 
 ---
 
@@ -61,9 +59,10 @@ This Analyse Project was developed with the use of the following tools:
 
 ## Concluding Results and Insights 🔎
 
-  1. In the April 2021 - April 2022 financial year **banking** had the most amount of overall profits. Coming in with **$799,890,000,000** in profits.
+  1. In the April 2021 - April 2022 financial year **banking** had the most amount of overall profits. Coming in with ~**$799,890,000,000** in profits.
   2. There is a pearson correlation of 0.3 indicating a **linear association**. This means that there are also other contributing factors affecting profits an organization makes.
-  3. 
+  3. The "**Saudi Arabian Oil Company (Saudi Aramco)**" had the most amount of profits out of all of the organizations listed in the dataset. They had generated a total of ~**$105,360,000,000** in profits!
+  4. There is a noticable correlation between an organizations origin country and profits. For example, a organization created in the United states is more likely to produce higher profit margins than other      countries.
 
 ---
 
