@@ -1,4 +1,4 @@
-# Forbes 2000 Analysis
+# Forbes Global 2000 Analysis
 ---
 ## Project Description
 
