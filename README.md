@@ -59,12 +59,13 @@ This Analyse Project was developed with the use of the following tools:
 
 ## Concluding Results and Insights 🔎
 
-*(It should be keep in mind that these findings are not absolute as there may of been other underlying factors that impacted these results, however, with the provided information these are the conclusions that I came to.)*
+*(It should be kept in mind that these findings are not absolute as there may of been other underlying factors that impacted these results, however, with the provided information these are the conclusions that I came to.)*
 
   1. In the April 2021 - April 2022 financial year **banking** had the most amount of overall profits. Coming in with ~**$799,890,000,000** in profits.
   2. There is a pearson correlation of just over 0.3 indicating a **linear association**. Due to it not indicating it had a strong assocation, this means that there are also other contributing factors            affecting the profits an organization makes.
   3. The "**Saudi Arabian Oil Company (Saudi Aramco)**" had the most amount of profits out of all of the organizations listed in the dataset. They had generated a total of ~**$105,360,000,000** in profits!
   4. There is a noticable correlation between an organizations origin country and profits. For example, a organization created in the United states is more likely to produce higher profit margins than other      countries.
+  5. There is not a correlation between a Organizations Age, and its generated Profits. I came to this conclusion using "pearsons correlation" (Finds Linear Associations), the results produced a correlation      of 0.04 which is no where near enough to suggest even a slight correlation.
 
 ---
 
